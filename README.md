@@ -1,4 +1,4 @@
-![alt text](UFRP-DEV-Projects/UFRP BANNER.jpg)
+![alt text](UFRP-DEV-Projects/UFRP_BANNER.jpg "UFRP BANNER")
 # UFRP-DEV-Projects
 This is for the UFRP Dev Team's projects
 
