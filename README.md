@@ -11,5 +11,5 @@ This is for the UFRP Dev Team's projects
 
 Name (for credit):
 <br>In game name (for credit):
-<br>Idea (please make your proposal very detailed, it helped the team!):
+<br>Idea (please make your proposal very detailed, it helpes the team!):
 <br><p>Description here</p>
